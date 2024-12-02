@@ -9,24 +9,23 @@
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://223.105.252.60/PLTV/3/224/3221228524/1.m3u8?icpid=3&from=1&hms_devid=6885
 凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv 
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源
-凰凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?$未知720P
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 凤凰资讯,http://146.56.153.245:20121/bysid/257$LR•IPV4『线路35』
 凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$LR•IPV4『线路89』
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?$未知720P
 央视频道,#genre#
 CCTV-1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -439,7 +438,6 @@ tvbs新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ROCKENTERTAINMENT综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
-丧尸李志（大陆恐怖片）,https://v.cdnlz19.com/20240417/27787_d58690e4/index.m3u8
 精品纪录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
 精品纪录,http://[2409:8087:5e00:24::1e]:6060/000000001000/6298506997017621594/1.m3u8
 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
@@ -590,4 +588,4 @@ NBA播44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?chann
 NBA播47,http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA播51,http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA播52,http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-
+丧尸李志（大陆恐怖片）,https://v.cdnlz19.com/20240417/27787_d58690e4/index.m3u8
