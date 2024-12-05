@@ -437,7 +437,8 @@ tvbs新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 纬来日本HD,rtmp://f13h.mine.nu/sat/tv771
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-ROCKENTERTAINMENT综艺娱乐,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
+WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 精品纪录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
 精品纪录,http://[2409:8087:5e00:24::1e]:6060/000000001000/6298506997017621594/1.m3u8
 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
