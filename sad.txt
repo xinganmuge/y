@@ -1,25 +1,6 @@
-体育频道,#genre#
-jj斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-美国中文,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-精品体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?$未知720P
-动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
-动物星球,mitv://generationnexxxt.com:19806/ff4ce945b27940f89712c63366f0454d
-红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+更新时间,201212http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-XXL,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
-Blue Hustler,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
-Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-
- 
-央视频道,#genre#
+央卫频道,#genre#
 CCTV1,http://110.53.52.63:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://110.80.17.38:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
@@ -639,7 +620,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 CCTV中学生,http://121.24.98.154:8090/hls/24/index.m3u8
 CCTV中学生,http://121.24.98.232:8090/hls/24/index.m3u8
 
-卫视频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重庆卫视,https://live.goodiptv.club/api/ghyx.php?id=ChongQingHD_6000
 重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -977,22 +957,19 @@ CCTV中学生,http://121.24.98.232:8090/hls/24/index.m3u8
 安徽卫视,http://117.27.190.42:9998/tsfile/live/23262_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-TVB翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
-TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-RT Français,https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-RT Doc-Русский,https://hls.rt.com/hls/rtdru360.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-RT Arabic,https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-港澳台,#genre#
+
+
+
+港澳频道,#genre#
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文3,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯4,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯5,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港6,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港7,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
@@ -1113,8 +1090,6 @@ ELTA体育1,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjo
 唯心+電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 NASA TV(Public Auto),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 NASA TV(Media Auto),https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 天主教电视网CatholicTV,https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
@@ -1165,7 +1140,6 @@ TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
@@ -1186,7 +1160,6 @@ SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 塞马直击,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
 港台电视RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
@@ -1207,11 +1180,11 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 经典都市台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-斗鱼,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
 新唐人美东台,https://ntd02.akamaized.net/HD-NY/index.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-4.m3u8
-体育频道,#genre#
+
+文体频道,#genre#
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -1227,9 +1200,25 @@ Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_66
 TENNIS,https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
+jj斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+美国中文,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+精品体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?$未知720P
+动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
+动物星球,mitv://generationnexxxt.com:19806/ff4ce945b27940f89712c63366f0454d
+红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
+Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+XXL,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
+Blue Hustler,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
+Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 
-会员频道2_103355,#genre#
 松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -1455,7 +1444,11 @@ Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 16,https://2.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
 17,https://2.ddyunbo.com/20191004/3T6aTxbN/index.m3u8
 18,https://2.ddyunbo.com/20191004/FxbqgEFY/index.m3u8
-测试_5533,#genre#
+1,http://218.241.192.50:8808/rtp/239.3.1.184:8001
+2,http://218.241.192.50:8808/rtp/239.3.1.153:8136
+3,http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566
+
+测试频道,#genre#
 CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8
 CCTV1,http://1732e975z9.zicp.fun:8082/hls/1/index.m3u8
 CCTV1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1511,15 +1504,7 @@ CCTV15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 CCTV15,http://123.163.114.11:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://123.166.61.70:8003/hls/16/index.m3u8
 CCTV16,http://111.225.114.206:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文3,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯4,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯5,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港6,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港7,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-测试2_5566,#genre#
+
 CCTV1,http://117.72.68.25:9930/migu.php?id=cctv1$咪咕代理
 CCTV2,http://117.72.68.25:9930/migu.php?id=cctv2$咪咕代理
 CCTV3,http://117.72.68.25:9930/migu.php?id=cctv3$咪咕代理
@@ -1583,7 +1568,7 @@ CCTV-15音乐,http://111.61.236.247:9081/hls/15/index.m3u8
 CCTV怀旧剧场频道,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-测试3_556677,#genre#
+
 CCTV1,http://180.158.164.233:8888/udp/239.45.3.145:5140
 CCTV1,http://www.dsmcloud.top:8888/udp/239.81.0.102:4056
 CCTV1,http://113.120.46.90:8123/udp/239.21.1.120:5002
@@ -1687,8 +1672,6 @@ CCTV老故事,http://xuys.top:8888/udp/225.1.1.188:5002
 CCTV中学生,http://121.24.98.232:8090/hls/24/index.m3u8
 CCTV中学生,http://121.24.98.154:8090/hls/24/index.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
-测试4_3355,#genre#
-1,http://218.241.192.50:8808/rtp/239.3.1.184:8001
-2,http://218.241.192.50:8808/rtp/239.3.1.153:8136
-3,http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566
+
+
 
