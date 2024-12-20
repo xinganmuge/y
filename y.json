@@ -1,573 +1,573 @@
 {
-¡°spider¡±£º¡°https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1¡±£¬
+â€œspiderâ€ï¼šâ€œhttps://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1â€ï¼Œ
 
-¡°sites¡±£º [
-{¡°key¡±£º¡°*Ë¿Íà×ÊÔ´¡±£¬¡°name¡±£º¡°*Ë¿Íà×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://siwazyw.cc/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ã¢¹û×ÊÔ´¡±£¬¡°name¡±£º¡°*Ã¢¹û×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://mgzyz1.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÀÖÓã×ÊÔ´¡±£¬¡°name¡±£º¡°*ÀÖÓã×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://www.leyuzyapi.com/inc/apijson_vod.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ë®ÃÛÌÒ¡±£¬¡°name¡±£º¡°*Ë®ÃÛÌÒ¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°http://51smt4.xyz/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ĞãÉ«×ÊÔ´¡±£¬¡°name¡±£º¡°*ĞãÉ«×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://api.xiuseapi.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ì½Ì½×ÊÔ´¡±£¬¡°name¡±£º¡°*Ì½Ì½×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://apittzy.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*×ÊÔ´¡±£¬¡°name¡±£º¡°*×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://semaozy6.com/inc/api.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*²İİ®×ÊÔ´¡±£¬¡°name¡±£º¡°*²İİ®×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://caiji.caomeiapi.com/inc/apijson_vod.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*°®¿´×ÊÔ´¡±£¬¡°name¡±£º¡°*°®¿´×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°http://www.aikanzyz9.com/inc/apijson_vod.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*»¨¿ı×ÊÔ´¡±£¬¡°name¡±£º¡°*»¨¿ı×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://caiji.huakuiapi.com/inc/apijson_vod.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÆÏÌÑ×ÊÔ´¡±£¬¡°name¡±£º¡°*ÆÏÌÑ×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://api.putaozy.net/inc/apijson_vod.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*É«ÎÑ×ÊÔ´¡±£¬¡°name¡±£º¡°*É«ÎÑ×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://sewozyapi.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÒùÎÑ×ÊÔ´¡±£¬¡°name¡±£º¡°*ÒùÎÑ×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://api.yinwoapi.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*SB×ÊÔ´¡±£¬¡°name¡±£º¡°*SB×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.shabizy.com:777/inc/sea¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*É«Ë¿×ÊÔ´¡±£¬¡°name¡±£º¡°*É«Ë¿×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.10caiji.com/home/cjapi/asbb/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ğ¡½ã½ã×ÊÔ´¡±£¬¡°name¡±£º¡°*Ğ¡½ã½ã×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*52AVAV¡±£¬¡°name¡±£º¡°*52AVAV¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://52zyapi.com/home/cjapi/asda/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÎÒÒªÅ¾Å¾¡±£¬¡°name¡±£º¡°*ÎÒÒªÅ¾Å¾¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*AV¼¯ÖĞÒù¡±£¬¡°name¡±£º¡°*AV¼¯ÖĞÒù¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ò¹Ò¹ß£×ÊÔ´¡±£¬¡°name¡±£º¡°*Ò¹Ò¹ß£×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*´óË¿×ÊÔ´¡±£¬¡°name¡±£º¡°*´óË¿×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ßäßä×ÊÔ´¡±£¬¡°name¡±£º¡°*ßäßä×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*±«ÓãAV¡±£¬¡°name¡±£º¡°*±«ÓãAV¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¾«¹¤³§×ÊÔ´¡±£¬¡°name¡±£º¡°*¾«¹¤³§×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*µãµãÓéÀÖ¡±£¬¡°name¡±£º¡°*µãµãÓéÀÖ¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*´óMM×ÊÔ´¡±£¬¡°name¡±£º¡°*´óMM×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*»Æ¹ÏTV×ÊÔ´¡±£¬¡°name¡±£º¡°*»Æ¹ÏTV×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¿ì²¥ºĞ×Ó×ÊÔ´¡±£¬¡°name¡±£º¡°*¿ì²¥ºĞ×Ó×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*´óÏã½¶×ÊÔ´¡±£¬¡°name¡±£º¡°*´óÏã½¶×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÈÕ±¾AVÔÚÏß¡±£¬¡°name¡±£º¡°*ÈÕ±¾AVÔÚÏß¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¾Ã¾ÃÈÈÔÚÏß¡±£¬¡°name¡±£º¡°*¾Ã¾ÃÈÈÔÚÏß¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÇàÇà²İÊÓÆµ¡±£¬¡°name¡±£º¡°*ÇàÇà²İÊÓÆµ¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Âé¶¹ÊÓÆµ¡±£¬¡°name¡±£º¡°*Âé¶¹ÊÓÆµ¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ò»±¾µÀ×ÊÔ´¡±£¬¡°name¡±£º¡°*Ò»±¾µÀ×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*²İÁñÊÓÆµ¡±£¬¡°name¡±£º¡°*²İÁñÊÓÆµ¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji02.com/home/cjapi/cfas/sea/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÑÇÖŞ³ÉÈËÔÚÏß¡±£¬¡°name¡±£º¡°*ÑÇÖŞ³ÉÈËÔÚÏß¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.caiji01.com/home/cjapi/cfd2/mc/vod/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÌìààÀ²×ÊÔ´¡±£¬¡°name¡±£º¡°*ÌìààÀ²×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.987caiji.com/api/max.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*99×ÊÔ´¡±£¬¡°name¡±£º¡°*99×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°http://99zy.pw/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*010°®×ÊÔ´¡±£¬¡°name¡±£º¡°*010°®×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.010aizy.com/API/macs.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*91Âé¶¹¡±£¬¡°name¡±£º¡°*91Âé¶¹¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://91md.me/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¿á¶¹×ÊÔ´¡±£¬¡°name¡±£º¡°*¿á¶¹×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://kudouzy.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¿á¶¹2¡±£¬¡°name¡±£º¡°*¿á¶¹2¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://api.kdapi.info/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¿áÂ×Àí¡±£¬¡°name¡±£º¡°*¿áÂ×Àí¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://api.kudian70.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ó°¿â×ÊÔ´¡±£¬¡°name¡±£º¡°*Ó°¿â×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://api.ykapi.net/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÄÌ²è×ÊÔ´¡±£¬¡°name¡±£º¡°*ÄÌ²è×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://caiji.naichaapi.com/inc/apijson_vod.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*°®²¥×ÊÔ´¡±£¬¡°name¡±£º¡°*°®²¥×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://cj.apiabzy.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÃÀÉÙÅ®×ÊÔ´¡±£¬¡°name¡±£º¡°*ÃÀÉÙÅ®×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.msnii.com/api/xml.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*»ú×ÊÔ´¡±£¬¡°name¡±£º¡°*»ú×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.xrbsp.com/api/xml.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÏãÄÌ¶ù×ÊÔ´¡±£¬¡°name¡±£º¡°*ÏãÄÌ¶ù×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.gdlsp.com/api/xml.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*°×æÎ×ÊÔ´¡±£¬¡°name¡±£º¡°*°×æÎ×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°https://www.kxgav.com/api/xml.php¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*Ğ¡ÊªÃÃ×ÊÔ´¡°£¬¡±name¡°£º¡±*Ğ¡ÊªÃÃ×ÊÔ´¡°£¬¡±type¡°£º0£¬¡±api¡°£º¡±https://www.afasu.com/api/xml.php¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*´óµØ×ÊÔ´¡°£¬¡±name¡°£º¡±*´óµØ×ÊÔ´¡°£¬¡±type¡°£º0£¬¡±api¡°£º¡±https://dadiapi.com/api.php¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*CK×ÊÔ´¡°£¬¡±name¡°£º¡±*CK×ÊÔ´¡°£¬¡±type¡°£º1£¬¡±api¡°£º¡±http://www.feifei67.com/api.php/provide/vod/¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*ÀÏÑ¼×ÊÔ´¡°£¬¡±name¡°£º¡±*ÀÏÑ¼×ÊÔ´¡°£¬¡±type¡°£º1£¬¡±api¡°£º¡±https://api.apilyzy.com/api.php/provide/vod/¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*»¨½·×ÊÔ´¡°£¬¡±name¡°£º¡±*»¨½·×ÊÔ´¡°£¬¡±type¡°£º1£¬¡±api¡°£º¡±https://apihjzy.com/api.php/provide/vod/¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*ÀÖ²¥×ÊÔ´¡°£¬¡±name¡°£º¡±*ÀÖ²¥×ÊÔ´¡°£¬¡±type¡°£º1£¬¡±api¡°£º¡±https://lbapi9.com/api.php/provide/vod/¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*²©ÌìÌÃ¡°£¬¡±name¡°£º¡±*²©ÌìÌÃ¡°£¬¡±type¡°£º0£¬¡±api¡°£º¡±http://bttcj.com/inc/sapi.php¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*»·ÑÇ×ÊÔ´¡°£¬¡±name¡°£º¡±*»·ÑÇ×ÊÔ´¡°£¬¡±type¡°£º0£¬¡±api¡°£º¡±http://wmcj8.com/inc/sapi.php¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*AVZY6888×ÊÔ´¡°£¬¡±name¡°£º¡±*AVZY6888×ÊÔ´¡°£¬¡±type¡°£º1£¬¡±api¡°£º¡±http://m.7777688.com/inc/apijson.php¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡±key¡°£º¡±*É«É«×ÊÔ´¡°£¬¡±name¡°£º¡±*É«É«×ÊÔ´¡°£¬¡±type¡°£º0£¬¡±api¡°£º¡±http://secj8.com/inc/sapi.php?ac=videolist¡°£¬¡±searchable¡°£º0£¬¡±quickSearch¡°£º0}£¬
-{¡°key¡±£º¡°*¾Á¾Á×ÊÔ´¡±£¬¡°name¡±£º¡°*¾Á¾Á×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://99zywcj.com/inc/sapi.php?ac=videolist¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ÀÇÉÙÄê¡±£¬¡°name¡±£º¡°*ÀÇÉÙÄê¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://cjmygzy.com/inc/sapi.php?ac=videolist¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*¼ÑÀö×ÊÔ´¡±£¬¡°name¡±£º¡°*¼ÑÀö×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°http://www.jializyzapi.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*·¬ºÅ×ÊÔ´¡±£¬¡°name¡±£º¡°*·¬ºÅ×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°http://fhapi9.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*öèÓã×ÊÔ´¡±£¬¡°name¡±£º¡°*öèÓã×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://shayuapi.com/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*ËÙ¶È×ÊÔ´¡±£¬¡°name¡±£º¡°*ËÙ¶È×ÊÔ´¡±£¬¡°type¡±£º0£¬¡°api¡±£º¡°http://www.ggmmzy.com:9999/inc/xml¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}£¬
-{¡°key¡±£º¡°*KKĞ´Õæ×ÊÔ´¡±£¬¡°name¡±£º¡°*KKĞ´Õæ×ÊÔ´¡±£¬¡°type¡±£º1£¬¡°api¡±£º¡°https://kkzy.me/api.php/provide/vod/¡±£¬¡°searchable¡±£º0£¬¡°quickSearch¡±£º0}
+â€œsitesâ€ï¼š [
+{â€œkeyâ€ï¼šâ€œ*ä¸è¢œèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ä¸è¢œèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://siwazyw.cc/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*èŠ’æœèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*èŠ’æœèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://mgzyz1.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ä¹é±¼èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ä¹é±¼èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.leyuzyapi.com/inc/apijson_vod.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*æ°´èœœæ¡ƒâ€ï¼Œâ€œnameâ€ï¼šâ€œ*æ°´èœœæ¡ƒâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttp://51smt4.xyz/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç§€è‰²èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ç§€è‰²èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://api.xiuseapi.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*æ¢æ¢èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*æ¢æ¢èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://apittzy.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://semaozy6.com/inc/api.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*è‰è“èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*è‰è“èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://caiji.caomeiapi.com/inc/apijson_vod.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*çˆ±çœ‹èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*çˆ±çœ‹èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.aikanzyz9.com/inc/apijson_vod.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*èŠ±é­èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*èŠ±é­èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://caiji.huakuiapi.com/inc/apijson_vod.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*è‘¡è„èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*è‘¡è„èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://api.putaozy.net/inc/apijson_vod.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*è‰²çªèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*è‰²çªèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://sewozyapi.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*æ·«çªèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*æ·«çªèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://api.yinwoapi.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*SBèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*SBèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.shabizy.com:777/inc/seaâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*è‰²ä¸èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*è‰²ä¸èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.10caiji.com/home/cjapi/asbb/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å°å§å§èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å°å§å§èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://xjjzyapi.com/home/cjapi/askl/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*52AVAVâ€ï¼Œâ€œnameâ€ï¼šâ€œ*52AVAVâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://52zyapi.com/home/cjapi/asda/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*æˆ‘è¦å•ªå•ªâ€ï¼Œâ€œnameâ€ï¼šâ€œ*æˆ‘è¦å•ªå•ªâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.caiji21.com/home/cjapi/klkl/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*AVé›†ä¸­æ·«â€ï¼Œâ€œnameâ€ï¼šâ€œ*AVé›†ä¸­æ·«â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji22.com/home/cjapi/klp0/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¤œå¤œæ’¸èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¤œå¤œæ’¸èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji23.com/home/cjapi/kls6/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¤§ä¸èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¤§ä¸èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å’ªå’ªèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å’ªå’ªèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.caiji25.com/home/cjapi/p0as/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é²é±¼AVâ€ï¼Œâ€œnameâ€ï¼šâ€œ*é²é±¼AVâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://caiji26.com/home/cjapi/p0g8/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç²¾å·¥å‚èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ç²¾å·¥å‚èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://jgczyapi.com/home/cjapi/kld2/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç‚¹ç‚¹å¨±ä¹â€ï¼Œâ€œnameâ€ï¼šâ€œ*ç‚¹ç‚¹å¨±ä¹â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¤§MMèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¤§MMèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é»„ç“œTVèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*é»„ç“œTVèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¿«æ’­ç›’å­èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¿«æ’­ç›’å­èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¤§é¦™è•‰èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¤§é¦™è•‰èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*æ—¥æœ¬AVåœ¨çº¿â€ï¼Œâ€œnameâ€ï¼šâ€œ*æ—¥æœ¬AVåœ¨çº¿â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ä¹…ä¹…çƒ­åœ¨çº¿â€ï¼Œâ€œnameâ€ï¼šâ€œ*ä¹…ä¹…çƒ­åœ¨çº¿â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é’é’è‰è§†é¢‘â€ï¼Œâ€œnameâ€ï¼šâ€œ*é’é’è‰è§†é¢‘â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji05.com/home/cjapi/cfda/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*éº»è±†è§†é¢‘â€ï¼Œâ€œnameâ€ï¼šâ€œ*éº»è±†è§†é¢‘â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ä¸€æœ¬é“èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ä¸€æœ¬é“èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*è‰æ¦´è§†é¢‘â€ï¼Œâ€œnameâ€ï¼šâ€œ*è‰æ¦´è§†é¢‘â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji02.com/home/cjapi/cfas/sea/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*äºšæ´²æˆäººåœ¨çº¿â€ï¼Œâ€œnameâ€ï¼šâ€œ*äºšæ´²æˆäººåœ¨çº¿â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.caiji01.com/home/cjapi/cfd2/mc/vod/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¤©å™œå•¦èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¤©å™œå•¦èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.987caiji.com/api/max.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*99èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*99èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttp://99zy.pw/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*010çˆ±èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*010çˆ±èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.010aizy.com/API/macs.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*91éº»è±†â€ï¼Œâ€œnameâ€ï¼šâ€œ*91éº»è±†â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://91md.me/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é…·è±†èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*é…·è±†èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://kudouzy.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é…·è±†2â€ï¼Œâ€œnameâ€ï¼šâ€œ*é…·è±†2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://api.kdapi.info/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é…·ä¼¦ç†â€ï¼Œâ€œnameâ€ï¼šâ€œ*é…·ä¼¦ç†â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://api.kudian70.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å½±åº“èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å½±åº“èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://api.ykapi.net/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å¥¶èŒ¶èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*å¥¶èŒ¶èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://caiji.naichaapi.com/inc/apijson_vod.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*çˆ±æ’­èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*çˆ±æ’­èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://cj.apiabzy.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç¾å°‘å¥³èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ç¾å°‘å¥³èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.msnii.com/api/xml.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*æœºèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*æœºèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.xrbsp.com/api/xml.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é¦™å¥¶å„¿èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*é¦™å¥¶å„¿èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.gdlsp.com/api/xml.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç™½å«–èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ç™½å«–èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttps://www.kxgav.com/api/xml.phpâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*å°æ¹¿å¦¹èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*å°æ¹¿å¦¹èµ„æºâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€apiâ€œï¼šâ€https://www.afasu.com/api/xml.phpâ€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*å¤§åœ°èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*å¤§åœ°èµ„æºâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€apiâ€œï¼šâ€https://dadiapi.com/api.phpâ€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*CKèµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*CKèµ„æºâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€apiâ€œï¼šâ€http://www.feifei67.com/api.php/provide/vod/â€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*è€é¸­èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*è€é¸­èµ„æºâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€apiâ€œï¼šâ€https://api.apilyzy.com/api.php/provide/vod/â€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*èŠ±æ¤’èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*èŠ±æ¤’èµ„æºâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€apiâ€œï¼šâ€https://apihjzy.com/api.php/provide/vod/â€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*ä¹æ’­èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*ä¹æ’­èµ„æºâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€apiâ€œï¼šâ€https://lbapi9.com/api.php/provide/vod/â€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*åšå¤©å ‚â€œï¼Œâ€nameâ€œï¼šâ€*åšå¤©å ‚â€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€apiâ€œï¼šâ€http://bttcj.com/inc/sapi.phpâ€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*ç¯äºšèµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*ç¯äºšèµ„æºâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€apiâ€œï¼šâ€http://wmcj8.com/inc/sapi.phpâ€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*AVZY6888èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*AVZY6888èµ„æºâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€apiâ€œï¼šâ€http://m.7777688.com/inc/apijson.phpâ€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€keyâ€œï¼šâ€*è‰²è‰²èµ„æºâ€œï¼Œâ€nameâ€œï¼šâ€*è‰²è‰²èµ„æºâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€apiâ€œï¼šâ€http://secj8.com/inc/sapi.php?ac=videolistâ€œï¼Œâ€searchableâ€œï¼š0ï¼Œâ€quickSearchâ€œï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç–ç–èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ç–ç–èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://99zywcj.com/inc/sapi.php?ac=videolistâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç‹¼å°‘å¹´â€ï¼Œâ€œnameâ€ï¼šâ€œ*ç‹¼å°‘å¹´â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://cjmygzy.com/inc/sapi.php?ac=videolistâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ä½³ä¸½èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ä½³ä¸½èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.jializyzapi.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*ç•ªå·èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*ç•ªå·èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttp://fhapi9.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é²¨é±¼èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*é²¨é±¼èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://shayuapi.com/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*é€Ÿåº¦èµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*é€Ÿåº¦èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://www.ggmmzy.com:9999/inc/xmlâ€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}ï¼Œ
+{â€œkeyâ€ï¼šâ€œ*KKå†™çœŸèµ„æºâ€ï¼Œâ€œnameâ€ï¼šâ€œ*KKå†™çœŸèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œapiâ€ï¼šâ€œhttps://kkzy.me/api.php/provide/vod/â€ï¼Œâ€œsearchableâ€ï¼š0ï¼Œâ€œquickSearchâ€ï¼š0}
 
 ],
 
-¡°lives¡±£º [
+â€œlivesâ€ï¼š [
 {
-¡°group¡±£º ¡°redirect¡±£¬
-¡°channels¡±£º [
+â€œgroupâ€ï¼š â€œredirectâ€ï¼Œ
+â€œchannelsâ€ï¼š [
 {
-¡°name¡±£º ¡°redirect¡±£¬
-¡°urls¡±£º [
-¡°proxy£º//do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ=¡±
+â€œnameâ€ï¼š â€œredirectâ€ï¼Œ
+â€œurlsâ€ï¼š [
+â€œproxyï¼š//do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ=â€
 ]
 }
 ]
-} ]£¬
+} ]ï¼Œ
 
-¡°flags¡±£º [¡°ÓÅ¿á¡±£¬¡°QQ¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°ÀÖÊÓ¡±£¬¡°ËÑºü¡±£¬¡°ÍÁ¶¹¡±£¬¡°pptv¡±£¬¡°mgtv¡±£¬¡°wasu¡±£¬¡°bilibili¡±£¬¡°xigua¡±£¬¡°renrenmi¡±£¬¡°ltnb¡±£¬¡°CL4K¡±£¬¡°rx¡±£¬¡°dmplay¡±£¬¡°¶à¶àÈ¤¡±£¬¡°xfyun¡±]£¬
+â€œflagsâ€ï¼š [â€œä¼˜é…·â€ï¼Œâ€œQQâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œä¹è§†â€ï¼Œâ€œæœç‹â€ï¼Œâ€œåœŸè±†â€ï¼Œâ€œpptvâ€ï¼Œâ€œmgtvâ€ï¼Œâ€œwasuâ€ï¼Œâ€œbilibiliâ€ï¼Œâ€œxiguaâ€ï¼Œâ€œrenrenmiâ€ï¼Œâ€œltnbâ€ï¼Œâ€œCL4Kâ€ï¼Œâ€œrxâ€ï¼Œâ€œdmplayâ€ï¼Œâ€œå¤šå¤šè¶£â€ï¼Œâ€œxfyunâ€]ï¼Œ
 
-¡°parses¡±£º [
-{¡°name¡±£º¡°×Ô¶¯½âÎö¡±£¬¡°type¡±£º3£¬¡°url¡±£º¡°Demo¡±}£¬
-{¡°name¡±£º¡°×Ô¶¯ÏßÂ·¡±£¬¡°type¡±£º 2£¬¡°url¡±£º ¡°Parallel¡±}£¬
-{¡°name¡±£º¡°ÏßÂ·1¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°http://27.124.4.42:4567/jhjson/ceshi.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ÆæÒÕ¡±£¬¡°qq¡±£¬¡°ÀÖÊÓ¡±£¬¡°ËÑºü¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°ßÙÁ¨ßÙÁ¨¡±£¬¡°wasu¡±£¬¡°xigua¡±£¬¡°1905¡±]}}£¬
-{¡°name¡±£º¡°ÏßÂ·2¡±£¬¡°url¡±£º ¡°http://81.71.48.249:4456/jsonc/293shipin.php?url=¡±£¬¡°type¡±£º 1£¬¡°i¡±£º ¡°77¡±£¬
-¡°ext¡±£º{¡°flag¡±£º[¡°ÆæÒÕ¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°ÓÅ¿á¡±£¬¡°pptv¡±£¬¡°PPTV¡±£¬¡°ÀÖÊÓ¡±£¬¡°bilibili¡±£¬¡°ßÙÁ¨ßÙÁ¨¡±£¬¡°ßÙÁ¨¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±]}}£¬
-{¡°name¡±£º¡°ÏßÂ·3¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°http://106.55.234.91:4433/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ÆæÒÕ¡±£¬¡°qq¡±£¬¡°ÀÖÊÓ¡±£¬¡°ËÑºü¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°ßÙÁ¨ßÙÁ¨¡±£¬¡°WASU¡±£¬¡°Î÷¹Ï¡±£¬¡°1905¡±]}}£¬
-{¡°name¡±£º ¡°ÏßÂ·4¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://81.71.48.249:4456/jsonc/longxia.php?url=¡±£¬¡°ext¡±£º {¡°flag¡±£º [¡°qq¡±£¬¡°ÆæÒÕ¡±£¬¡°mgtv¡±£¬¡°ÓÅ¿á¡±£¬¡°letv¡±£¬¡°ËÑºü¡±£¬¡°Î÷¹Ï¡±£¬¡°1905¡±]£¬¡±header¡°£º {¡±User-Agent¡°£º ¡±Dart/2.14 £¨dart£ºio£©¡°}}}£¬
-{¡±name¡°£º ¡±Pro¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://api.vip123kan.vip/?url=¡°£¬¡±ext¡°£º {¡±flag¡°£º [¡±ÓÅ¿á¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±qq¡°£¬¡±ÆæÒÕ¡°]}}£¬
-{¡±name¡°£º ¡±parwix1¡°£¬¡±type¡°£º1£¬¡±url¡°£º ¡±https://jx.parwix.com:4433/player/?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±letv¡°£¬¡±ÀÖÊÓ¡°£¬¡±pptv¡°£¬¡±PPTV¡°£¬¡±ËÑºü¡°£¬¡±bilibili¡°£¬¡±ßÙÁ¨ßÙÁ¨¡°£¬¡±ßÙÁ¨¡°]}}£¬
-{¡°name¡±£º ¡°parwix2¡±£¬¡°type¡±£º1£¬¡°url¡±£º ¡°https://jx.parwix.com:4433/player/analysis.php?v=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±£¬¡°letv¡±£¬¡°ÀÖÊÓ¡±£¬¡°pptv¡±£¬¡°PPTV¡±£¬¡°ËÑºü¡±£¬¡°bilibili¡±£¬¡°ßÙÁ¨ßÙÁ¨¡±£¬¡°ßÙÁ¨¡±]}}£¬
-{¡°name¡±£º ¡°parwix3¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url=¡±}£¬
-{¡°name¡±£º ¡°×ÛºÏ/BÕ¾¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.parwix.com:4433/player/?url=¡±}£¬
-{¡°name¡±£º ¡°×ÛºÏÏßÂ·½âÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://laisoyiba.com/mov/s/?sv=3&url=¡±}£¬
-{¡°name¡±£º ¡°´¿¾»/BÕ¾¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://z1.m1907.cn/?jx=¡±}£¬
-{¡°name¡±£º ¡°¸ßËÙ½Ó¿Ú¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jsap.attakids.com/?url=¡±}£¬
-{¡°name¡±£º ¡°OK½âÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://okjx.cc/?url=¡±}£¬
-{¡°name¡±£º ¡°OK½âÎö2¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.okjx.cc:3389/jx.php?url=¡±}£¬
-{¡°name¡±£º ¡°Ò¹Ä»¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.yemu.xyz/?url=¡±}£¬
-{¡°name¡±£º ¡°ÀÖ¶à×ÊÔ´¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=¡±}£¬
-{¡°name¡±£º ¡°°®¶¹¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.aidouer.net/?url=¡±}£¬
-{¡°name¡±£º ¡°ÏºÃ×¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.xmflv.com/?url=¡±}£¬
-{¡°name¡±£º ¡°M3U8.TV¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.m3u8.tv/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°ÈËÈËÃÔ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.blbo.cc:4433/?url=¡±}£¬
-{¡°name¡±£º ¡°È«Ãñ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.quanmingjiexi.com/?url=¡±}£¬
-{¡°name¡±£º ¡°È«Ãñ2¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://chaxun.truechat365.com/?url=¡±}£¬
-{¡°name¡±£º ¡°PPJÀ¶¹â½âÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://bf.ppjbk.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°PPJ½âÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.ppjbk.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°PPJµ¯Ä»½âÎö2¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://bf.ppjbk.cn/bf/?url=¡±}£¬
-{¡°name¡±£º ¡°m2090.¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://m2090.com/?url=¡±}£¬
-{¡°name¡±£º ¡°ÔÆ½âÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.ppflv.com/?url=¡±}£¬
-{¡°name¡±£º ¡°ÌìÒí½âÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.qianyicp.com/vip/vip_g.php?url=¡±}£¬
-{¡°name¡±£º ¡°°ÙÓò¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.618g.com/?url=¡±}£¬
-{¡°name¡±£º ¡°´óÄ»¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.52damu.com/dmjx/jiexi.php?url=¡±}£¬
-{¡°name¡±£º ¡°RDHK¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.rdhk.net/?v=¡°}£¬
-{¡±name¡°£º ¡±ÌÔµçÓ°¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.vodjx.top/vip/?url=¡°}£¬
-{¡±name¡°£º ¡±Î¬¶à¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.ivito.cn/?url=¡°}£¬
-{¡±name¡°£º ¡±ÔÆ¶Ë¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://sb.5gseo.net/?url=¡°}£¬
-{¡±name¡°£º ¡±Æß¸ç¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.mmkv.cn/tv.php?url=¡°}£¬
-{¡±name¡°£º ¡±±ù¶¹¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://api.qianqi.net/vip/?url=¡°}£¬
-{¡°name¡±£º ¡°µÏ°Â¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://123.1dior.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°CK¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.ckplayer.vip/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°ÓÎÒÕ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.u1o.net/?url=¡±}£¬
-{¡°name¡±£º ¡°LE¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://lecurl.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°ckmov¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.ckmov.vip/api.php?url=¡±}£¬
-{¡°name¡±£º ¡°playerjy/BÕ¾¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.playerjy.com/?url=¡±}£¬
-{¡°name¡±£º ¡°ccyjjd¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://ckmov.ccyjjd.com/ckmov/?url=¡±}£¬
-{¡°name¡±£º ¡°°®¶¹¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.aidouer.net/?url=¡±}£¬
-{¡°name¡±£º ¡°ÅµÅµ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.ckmov.com/?url=¡±}£¬
-{¡°name¡±£º ¡°H8¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.h8jx.com/jiexi.php?url=¡±}£¬
-{¡°name¡±£º ¡°BL¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.bljiex.com/?v=¡±}£¬
-{¡°name¡±£º ¡°½âÎöla¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.jiexi.la/?url=¡±}£¬
-{¡°name¡±£º ¡°MUTV¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jiexi.janan.net/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°Ã«¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.mtosz.com/m3u8.php?url=¡±}£¬
-{¡°name¡±£º ¡°ÀÏ°å¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.laobandq.com/jiexi.php?url=¡±}£¬
-{¡°name¡±£º ¡°ÅÌ¹Å¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.pangujiexi.cc/jiexi.php?url=¡±}£¬
-{¡°name¡±£º ¡°¸ÇÊÀ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.gai4.com/?url=¡±}£¬
-{¡°name¡±£º ¡°Ğ¡½¯¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡±https://www.kpezp.cn/jlexi.php?url=¡°}£¬
-{¡±name¡°£º ¡±Ò×ÊÓ¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jiexi.us/?url=¡°}£¬
-{¡±name¡°£º ¡±ĞÇ¿Õ¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://60jx.com/?url=¡°}£¬
-{¡±name¡°£º ¡±0523¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://go.yh0523.cn/y.cy?url=¡°}£¬
-{¡±name¡°£º ¡±17ÔÆ¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://www.1717yun.com/jx/ty.php?url=¡°}£¬
-{¡±name¡°£º ¡±4K¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.4kdv.com/?url=¡°}£¬
-{¡°name¡±£º ¡°ÔÆÎö¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.yparse.com/index.php?url=¡±}£¬
-{¡°name¡±£º ¡°8090¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.8090g.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°½­ºş¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.jhdyw.vip/?url=¡±}£¬
-{¡°name¡±£º ¡°ÅµÑ¶¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.nxflv.com/?url=¡±}£¬
-{¡°name¡±£º ¡°PM¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.playm3u8.cn/jiexi.php?url=¡±}£¬
-{¡°name¡±£º ¡°ÆæÃ×¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://qimihe.com/?url=¡±}£¬
-{¡°name¡±£º ¡°Ë¼ÔÆ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.ap2p.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°ÌıÀÖ¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.dj6u.com/?url=¡±}£¬
-{¡°name¡±£º ¡°aijx¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jiexi.t7g.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°52¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.52jiexi.top/?url=¡±}£¬
-{¡°name¡±£º ¡°ºÚÃ×¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.myxin.top/jx/api/?url=¡±}£¬
-{¡°name¡±£º ¡°ºÀ»ªÀ²¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.lhh.la/vip/?url=¡±}£¬
-{¡°name¡±£º ¡°Á¹³Ç¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.mw0.cc/?url=¡±}£¬
-{¡°name¡±£º ¡°33t¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.33tn.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°180¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.000180.top/jx/?url=¡±}£¬
-{¡°name¡±£º ¡°ÎŞÃû¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.administratorw.com/video.php?url=¡°}£¬
-{¡±name¡°£º ¡±ºÚÔÆ¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jiexi.380k.com/?url=¡°}£¬
-{¡±name¡°£º ¡±¾Å°Ë¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.youyitv.com/?url=¡°}£¬
-{¡±name¡°£º ¡±½â02¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://json.5lp.net/json.php?url=¡°}£¬
-{¡±name¡°£º ¡±½â03¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://115.231.218.97:1314/api/?key=RwOSJUQyDGtD5K2qJY&url=¡°}£¬
-{¡±name¡°£º ¡±½â04¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jhjx.kuanjv.com/newky/?url=¡°}£¬
-{¡±name¡°£º ¡±½â05¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url=¡°}£¬
-{¡±name¡°£º ¡±½â06¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://json.hfyrw.com/mao.go?url=¡°}£¬
-{¡±name¡°£º ¡±½â08¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=¡°}£¬
-{¡°name¡±£º ¡°½â09¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=dhlotwxzABCIJMT189&url=¡±}£¬
-{¡°name¡±£º ¡°½â10¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url=¡±}£¬
-{¡°name¡±£º ¡°½â11¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=¡±}£¬
-{¡°name¡±£º ¡°½â12¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡±http://jf.96ym.cn/api/?key=c9bUhQL7YsuL7y8oFz&url=¡°}£¬
-{¡±name¡°£º ¡±½â13¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://42.157.128.85:880/analysis/json/?uid=2245&my=chorsvzDIKVWX34789&url=¡°}£¬
-{¡±name¡°£º ¡±½â14¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url=¡°}£¬
-{¡±name¡°£º ¡±½â15¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.7kjx.com/?url=¡°}£¬
-{¡±name¡°£º ¡±½â16¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://jiexi.kudian6.com/pzjx/zz.php?url=¡°}£¬
-{¡±name¡°£º ¡±½â17¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url=¡°}£¬
-{¡±name¡°£º ¡±½â18¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=¡°}£¬
-{¡±name¡°£º ¡±½â19¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://svip.renrenmi.cc:2222/api/?key=nn4j8rukPXSVzR78E9&url=¡°}£¬
-{¡°name¡±£º ¡°½â20¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://kuba.renrenmi.cc:2266/api/?key=1PhqM8xRCbmfgwmcE2&url=¡±}£¬
-{¡°name¡±£º ¡°½â21¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://www.youhuifuligou.com/json/?id=1&url=¡±}£¬
-{¡°name¡±£º ¡°½â22¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url=¡±}£¬
-{¡°name¡±£º ¡°½â23¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url=¡±}£¬
-{¡°name¡±£º ¡°½â24¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://sbsb.i8k.cc/?url=¡±}£¬
-{¡°name¡±£º ¡°½â25¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://gq.bywdtk.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°½â26¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url=¡±}£¬
-{¡°name¡±£º ¡°½â27¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=¡±}£¬
-{¡°name¡±£º ¡°½â28¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url=¡±}£¬
-{¡°name¡±£º ¡°½â29¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url=¡±}£¬
-{¡°name¡±£º ¡°½â30¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://a.dxzj88.com/jhjson/?url=¡±}£¬
-{¡°name¡±£º ¡°½â31¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://svip.spchat.top/api/?key=SAl7tLs3Zzu5alSNtz&url=¡°}£¬
-{¡±name¡°£º ¡±½â32¡°£¬¡±type¡°£º 1£¬¡±url¡°£º¡°https://vip.kpjx.cc/api/?key=3sKKYzWSxLmX1hnsMs&url=¡±}£¬
-{¡°name¡±£º ¡°½â33¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url=¡±}£¬
-{¡°name¡±£º ¡°½â34¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://jf.jisutuku.top/api/?key=RHjXcjUTkyZnfWx9u4&url=¡±}£¬
-{¡°name¡±£º ¡°½â35¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url=¡±}£¬
-{¡°name¡±£º ¡°½â36¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://42.157.128.85:880/analysis/json/?uid=2245&my=cdnouwxBHLMQSUVWZ1&url=¡±}£¬
-{¡°name¡±£º ¡°½â37¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=¡±}£¬
-{¡°name¡±£º ¡°½â38¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.zhanlangbu.com/json.php/?url=¡±}£¬
-{¡°name¡±£º ¡°½â39¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡±https://api.zakkpa.com:8888/analysis/json/?uid=39&my=ehklrtxzAFKLMNUXY2&url=¡°}£¬
-{¡±name¡°£º ¡±½â40¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url=¡°}£¬
-{¡±name¡°£º ¡±½â41¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.kujiexi.net/m3u8.php?url=¡°}£¬
-{¡±name¡°£º ¡±½â42¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://jx.ykyunbo.com/m3u8.php?url=¡°}£¬
-{¡±name¡°£º ¡±½â43¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://player.aibozyplayer.com/m3u8/?url=¡°}£¬
-{¡±name¡°£º ¡±½â44¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://player.sewozyplayer.com/m3u8/?url=¡°}£¬
-{¡±name¡°£º ¡±½â45¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://help.siwazywcdn2.com:5278/m3u8.php?url=¡°}£¬
-{¡±name¡°£º ¡±½â46¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://player.leyuzy.net/?url=¡°}£¬
-{¡±name¡°£º ¡±½â47¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://api.xiusebf.com/m3u8/?url=¡°}£¬
-{¡°name¡±£º ¡°½â48¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://mgm3u8-player.com/player/DPm3u8.php?url=¡±}£¬
-{¡°name¡±£º ¡°½â49¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://player.77lehuo.com/aliplayer/?url=¡±}£¬
-{¡°name¡±£º ¡°½â50¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.ykyunbo.com/m3u8.php?url=¡±}£¬
-{¡°name¡±£º ¡°½â51¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://www.ikukk.com/?url=¡±}£¬
-{¡°name¡±£º ¡°½â52¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.xmflv.com/?url=¡±}£¬
-{¡°name¡±£º ¡°½â53¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.8090g.cn/?url=¡±}£¬
-{¡°name¡±£º ¡°½â54¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://api.diliktv.xyz/vip/jx.php?url=¡±}£¬
-{¡°name¡±£º ¡°½â55¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://nbjx.vip/?url=¡±}£¬
-{¡°name¡±£º ¡°½â56¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.okjx.cc:3389/jx.php?url=¡±}£¬
-{¡°name¡±£º ¡°½â57¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.xymav.com/?url=¡±}£¬
-{¡°name¡±£º ¡°½â58¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://9kjx.com/?url=¡±}£¬
-{¡°name¡±£º ¡°½â59¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://dp.fqplayer.com/dplayer/?url=¡±}£¬
-{¡°name¡±£º ¡°½â60¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.blbo.cc:4433/?url=¡±}£¬
-{¡°name¡±£º ¡°½â61¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.iztyy.com/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°½â62¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.91jxs.com/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°½â63¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://vip.26db.cn/c/?url=¡±}£¬
-{¡°name¡±£º ¡°½â64¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡±http://vip.26db.cn/f/?url=¡°}£¬
-{¡±name¡°£º ¡±½â65¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://vip.26db.cn/a/?url=¡°}£¬
-{¡±name¡°£º ¡±½â66¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://okjx.cc/?url=¡°}£¬
-{¡±name¡°£º ¡±½â67¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://jx.xdiaosi.com/?url=¡°}£¬
-{¡±name¡°£º ¡±½â68¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://jx.rdhk.net/?url=¡°}£¬
-{¡±name¡°£º ¡±½â69¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://ckmov.ccyjjd.com/ckmov/£¿url=¡°}£¬
-{¡±name¡°£º ¡±½â70¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://okjx.cc/?url=¡°}£¬
-{¡±name¡°£º ¡±½â71¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://www.nxflv.com/?url=¡°}£¬
-{¡±name¡°£º ¡±½â72¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://gq.bywdtk.cn/?url=¡°}£¬
-{¡±name¡°£º ¡±½â73¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url=¡°}£¬
-{¡±name¡°£º ¡±½â74¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=¡°}£¬
-{¡±name¡°£º ¡±½â75¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://json.legendwhb.cn/json.php/?url=¡°}£¬
-{¡±name¡°£º ¡±½â76¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url=¡°}£¬
-{¡±name¡°£º ¡±½â77¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://newjiexi.gotto.top/yun_apib.php/?url=¡°}£¬
-{¡±name¡°£º ¡±½â78¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://vipjh.chunbaotaiji.com/?url=¡°}£¬
-{¡°name¡±£º ¡°½â79¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jhjx.ptygx.com/xttyjx.php/?url=¡±}£¬
-{¡°name¡±£º ¡°½â80¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.ckplayer.vip/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°½â81¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.laobandq.com/jiexi.php?url=¡±}£¬
+â€œparsesâ€ï¼š [
+{â€œnameâ€ï¼šâ€œè‡ªåŠ¨è§£æâ€ï¼Œâ€œtypeâ€ï¼š3ï¼Œâ€œurlâ€ï¼šâ€œDemoâ€}ï¼Œ
+{â€œnameâ€ï¼šâ€œè‡ªåŠ¨çº¿è·¯â€ï¼Œâ€œtypeâ€ï¼š 2ï¼Œâ€œurlâ€ï¼š â€œParallelâ€}ï¼Œ
+{â€œnameâ€ï¼šâ€œçº¿è·¯1â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttp://27.124.4.42:4567/jhjson/ceshi.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œå¥‡è‰ºâ€ï¼Œâ€œqqâ€ï¼Œâ€œä¹è§†â€ï¼Œâ€œæœç‹â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œå“”å“©å“”å“©â€ï¼Œâ€œwasuâ€ï¼Œâ€œxiguaâ€ï¼Œâ€œ1905â€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œçº¿è·¯2â€ï¼Œâ€œurlâ€ï¼š â€œhttp://81.71.48.249:4456/jsonc/293shipin.php?url=â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œiâ€ï¼š â€œ77â€ï¼Œ
+â€œextâ€ï¼š{â€œflagâ€ï¼š[â€œå¥‡è‰ºâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œpptvâ€ï¼Œâ€œPPTVâ€ï¼Œâ€œä¹è§†â€ï¼Œâ€œbilibiliâ€ï¼Œâ€œå“”å“©å“”å“©â€ï¼Œâ€œå“”å“©â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œçº¿è·¯3â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttp://106.55.234.91:4433/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œå¥‡è‰ºâ€ï¼Œâ€œqqâ€ï¼Œâ€œä¹è§†â€ï¼Œâ€œæœç‹â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œå“”å“©å“”å“©â€ï¼Œâ€œWASUâ€ï¼Œâ€œè¥¿ç“œâ€ï¼Œâ€œ1905â€]}}ï¼Œ
+{â€œnameâ€ï¼š â€œçº¿è·¯4â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://81.71.48.249:4456/jsonc/longxia.php?url=â€ï¼Œâ€œextâ€ï¼š {â€œflagâ€ï¼š [â€œqqâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œmgtvâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œletvâ€ï¼Œâ€œæœç‹â€ï¼Œâ€œè¥¿ç“œâ€ï¼Œâ€œ1905â€]ï¼Œâ€headerâ€œï¼š {â€User-Agentâ€œï¼š â€Dart/2.14 ï¼ˆdartï¼šioï¼‰â€œ}}}ï¼Œ
+{â€nameâ€œï¼š â€Proâ€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://api.vip123kan.vip/?url=â€œï¼Œâ€extâ€œï¼š {â€flagâ€œï¼š [â€ä¼˜é…·â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€qqâ€œï¼Œâ€å¥‡è‰ºâ€œ]}}ï¼Œ
+{â€nameâ€œï¼š â€parwix1â€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼š â€https://jx.parwix.com:4433/player/?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€letvâ€œï¼Œâ€ä¹è§†â€œï¼Œâ€pptvâ€œï¼Œâ€PPTVâ€œï¼Œâ€æœç‹â€œï¼Œâ€bilibiliâ€œï¼Œâ€å“”å“©å“”å“©â€œï¼Œâ€å“”å“©â€œ]}}ï¼Œ
+{â€œnameâ€ï¼š â€œparwix2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.parwix.com:4433/player/analysis.php?v=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€ï¼Œâ€œletvâ€ï¼Œâ€œä¹è§†â€ï¼Œâ€œpptvâ€ï¼Œâ€œPPTVâ€ï¼Œâ€œæœç‹â€ï¼Œâ€œbilibiliâ€ï¼Œâ€œå“”å“©å“”å“©â€ï¼Œâ€œå“”å“©â€]}}ï¼Œ
+{â€œnameâ€ï¼š â€œparwix3â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œç»¼åˆ/Bç«™â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.parwix.com:4433/player/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œç»¼åˆçº¿è·¯è§£æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://laisoyiba.com/mov/s/?sv=3&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œçº¯å‡€/Bç«™â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://z1.m1907.cn/?jx=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œé«˜é€Ÿæ¥å£â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jsap.attakids.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œOKè§£æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://okjx.cc/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œOKè§£æ2â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.okjx.cc:3389/jx.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå¤œå¹•â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.yemu.xyz/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œä¹å¤šèµ„æºâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œçˆ±è±†â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.aidouer.net/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè™¾ç±³â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.xmflv.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œM3U8.TVâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.m3u8.tv/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œäººäººè¿·â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.blbo.cc:4433/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå…¨æ°‘â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.quanmingjiexi.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå…¨æ°‘2â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://chaxun.truechat365.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œPPJè“å…‰è§£æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://bf.ppjbk.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œPPJè§£æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.ppjbk.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œPPJå¼¹å¹•è§£æ2â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://bf.ppjbk.cn/bf/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œm2090.â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://m2090.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œäº‘è§£æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.ppflv.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå¤©ç¿¼è§£æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.qianyicp.com/vip/vip_g.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œç™¾åŸŸâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.618g.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå¤§å¹•â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.52damu.com/dmjx/jiexi.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œRDHKâ€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.rdhk.net/?v=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€æ·˜ç”µå½±â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.vodjx.top/vip/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€ç»´å¤šâ€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.ivito.cn/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€äº‘ç«¯â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://sb.5gseo.net/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€ä¸ƒå“¥â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.mmkv.cn/tv.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€å†°è±†â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://api.qianqi.net/vip/?url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè¿ªå¥¥â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://123.1dior.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œCKâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.ckplayer.vip/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæ¸¸è‰ºâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.u1o.net/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œLEâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://lecurl.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œckmovâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.ckmov.vip/api.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œplayerjy/Bç«™â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.playerjy.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œccyjjdâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://ckmov.ccyjjd.com/ckmov/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œçˆ±è±†â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.aidouer.net/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè¯ºè¯ºâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.ckmov.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œH8â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.h8jx.com/jiexi.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œBLâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.bljiex.com/?v=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£ælaâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.jiexi.la/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œMUTVâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jiexi.janan.net/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæ¯›â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.mtosz.com/m3u8.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè€æ¿â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.laobandq.com/jiexi.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œç›˜å¤â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.pangujiexi.cc/jiexi.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œç›–ä¸–â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.gai4.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå°è’‹â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€https://www.kpezp.cn/jlexi.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€æ˜“è§†â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jiexi.us/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€æ˜Ÿç©ºâ€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://60jx.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€0523â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://go.yh0523.cn/y.cy?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€17äº‘â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://www.1717yun.com/jx/ty.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€4Kâ€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.4kdv.com/?url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œäº‘æâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.yparse.com/index.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œ8090â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.8090g.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæ±Ÿæ¹–â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.jhdyw.vip/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè¯ºè®¯â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.nxflv.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œPMâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.playm3u8.cn/jiexi.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå¥‡ç±³â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://qimihe.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæ€äº‘â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.ap2p.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå¬ä¹â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.dj6u.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œaijxâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jiexi.t7g.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œ52â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.52jiexi.top/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œé»‘ç±³â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.myxin.top/jx/api/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè±ªåå•¦â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.lhh.la/vip/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå‡‰åŸâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.mw0.cc/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œ33tâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.33tn.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œ180â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.000180.top/jx/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæ— åâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.administratorw.com/video.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€é»‘äº‘â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jiexi.380k.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€ä¹å…«â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.youyitv.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£02â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://json.5lp.net/json.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£03â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://115.231.218.97:1314/api/?key=RwOSJUQyDGtD5K2qJY&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£04â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jhjx.kuanjv.com/newky/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£05â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£06â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://json.hfyrw.com/mao.go?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£08â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£09â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=dhlotwxzABCIJMT189&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£10â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£11â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£12â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€http://jf.96ym.cn/api/?key=c9bUhQL7YsuL7y8oFz&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£13â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://42.157.128.85:880/analysis/json/?uid=2245&my=chorsvzDIKVWX34789&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£14â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£15â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.7kjx.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£16â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://jiexi.kudian6.com/pzjx/zz.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£17â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£18â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£19â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://svip.renrenmi.cc:2222/api/?key=nn4j8rukPXSVzR78E9&url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£20â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://kuba.renrenmi.cc:2266/api/?key=1PhqM8xRCbmfgwmcE2&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£21â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://www.youhuifuligou.com/json/?id=1&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£22â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£23â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£24â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://sbsb.i8k.cc/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£25â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://gq.bywdtk.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£26â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£27â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£28â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£29â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£30â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://a.dxzj88.com/jhjson/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£31â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://svip.spchat.top/api/?key=SAl7tLs3Zzu5alSNtz&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£32â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼šâ€œhttps://vip.kpjx.cc/api/?key=3sKKYzWSxLmX1hnsMs&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£33â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£34â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://jf.jisutuku.top/api/?key=RHjXcjUTkyZnfWx9u4&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£35â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£36â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://42.157.128.85:880/analysis/json/?uid=2245&my=cdnouwxBHLMQSUVWZ1&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£37â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£38â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.zhanlangbu.com/json.php/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£39â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€https://api.zakkpa.com:8888/analysis/json/?uid=39&my=ehklrtxzAFKLMNUXY2&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£40â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£41â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.kujiexi.net/m3u8.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£42â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://jx.ykyunbo.com/m3u8.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£43â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://player.aibozyplayer.com/m3u8/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£44â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://player.sewozyplayer.com/m3u8/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£45â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://help.siwazywcdn2.com:5278/m3u8.php?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£46â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://player.leyuzy.net/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£47â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://api.xiusebf.com/m3u8/?url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£48â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://mgm3u8-player.com/player/DPm3u8.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£49â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://player.77lehuo.com/aliplayer/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£50â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.ykyunbo.com/m3u8.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£51â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://www.ikukk.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£52â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.xmflv.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£53â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.8090g.cn/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£54â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://api.diliktv.xyz/vip/jx.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£55â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://nbjx.vip/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£56â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.okjx.cc:3389/jx.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£57â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.xymav.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£58â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://9kjx.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£59â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://dp.fqplayer.com/dplayer/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£60â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.blbo.cc:4433/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£61â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.iztyy.com/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£62â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.91jxs.com/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£63â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://vip.26db.cn/c/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£64â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€http://vip.26db.cn/f/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£65â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://vip.26db.cn/a/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£66â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://okjx.cc/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£67â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://jx.xdiaosi.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£68â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://jx.rdhk.net/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£69â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://ckmov.ccyjjd.com/ckmov/ï¼Ÿurl=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£70â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://okjx.cc/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£71â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://www.nxflv.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£72â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://gq.bywdtk.cn/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£73â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£74â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£75â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://json.legendwhb.cn/json.php/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£76â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£77â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://newjiexi.gotto.top/yun_apib.php/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£78â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://vipjh.chunbaotaiji.com/?url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£79â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jhjx.ptygx.com/xttyjx.php/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£80â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.ckplayer.vip/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£81â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.laobandq.com/jiexi.php?url=â€}ï¼Œ
 //
-{¡°name¡±£º ¡°½â84¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://svip.bljiex.cc/?v=¡±}£¬
-{¡°name¡±£º ¡°½â85¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.1717yun.com/api/?url=¡±}£¬
-{¡°name¡±£º ¡°½â89¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.qianqi.net/vip/?url=¡±}£¬
-{¡°name¡±£º ¡°½â87¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.ikukk.com/?url=¡±}£¬
-{¡°name¡±£º ¡°½â88¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.playm3u8.cn/jiexi.php?url=¡±}£¬
-{¡°name¡±£º ¡°½â89¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://vip.bljiex.com/?v=¡±}£¬
-{¡°name¡±£º ¡°½â90¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.jiexi.la/?url=¡±}£¬
-{¡°name¡±£º ¡°½â91¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.m3u8.tv/jiexi/?url=¡±}£¬
-{¡°name¡±£º ¡°½â92¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://47.100.138.210:92/?url=¡±}£¬
-{¡°name¡±£º ¡°½â93¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://humaosp.com/json.php?url=¡±}£¬
-{¡°name¡±£º ¡°½â94¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.iztyy.com/svip/?url=¡±}£¬
-{¡°name¡±£º ¡°½â95¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://660e.com/?url=¡±}£¬
-{¡°name¡±£º ¡°½â96¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.8090.la/8090/?url=¡±}£¬
-{¡°name¡±£º ¡°½â97¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡±https://jx.daidaitv.top:43810/?url=¡°}£¬
-{¡±name¡°£º ¡±½â98¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=¡°}£¬
-{¡±name¡°£º ¡±½â99¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=¡°}£¬
-{¡±name¡°£º ¡±½â100¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://z1.m1907.cn/?jx=¡°}£¬
-{¡±name¡°£º ¡±½â101¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://player.maqq.cn/?url=¡°}£¬
-{¡±name¡°£º ¡±½â102¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://jx.renrenmi.cc/?url=¡°}£¬
-{¡±name¡°£º ¡±½â103¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://fast.rongxingvr.cn:8866/api/?key=J4mUIu3DrRtIOojDox&url=¡°}£¬
-{¡±name¡°£º ¡±½â104¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://fast.rongxingvr.cn:8866/api/?key=jtDZ22biNujOBLlgoe&url=¡°}£¬
-{¡±name¡°£º ¡±½â105¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://fast.rongxingvr.cn:99/api/?key=M3tZzS2q0oGrQ7aWlr&url=¡°}£¬
-{¡°name¡±£º ¡°½â106¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://fast.rongxingvr.cn:8866/api/?key=rmxOw7BpINuGIyWQng&url=¡±}£¬
-{¡°name¡±£º ¡°½â107¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://fast.rongxingvr.cn:8866/api/?key=nrR7koAyq9ajKId4nC&url ½â1=¡±}£¬
-{¡°name¡±£º ¡°½â108¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZu&url=¡°}£¬
-{¡±name¡°£º ¡±½â109¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±http://m2090.com/?url=¡°}£¬
-{¡±name¡°£º ¡±½â110¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url=¡°}£¬
-{¡±name¡°£º ¡±½â111¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=¡°}£¬
-{¡°name¡±£º ¡°½â112¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=¡±}£¬
-{¡°name¡±£º ¡°½â113¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url=¡±}£¬
-{¡°name¡±£º ¡°½â114¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=¡±}£¬
-{¡°name¡±£º ¡°½â115¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url=¡±}£¬
-{¡°name¡±£º ¡°½â116¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url ½â13=¡±}£¬
-{¡°name¡±£º ¡°½â117¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=¡±}£¬
-{¡°name¡±£º ¡°½â118¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=¡±}£¬
-{¡°name¡±£º ¡°½â119¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=¡±£¬¡°ext¡±£º{ ¡°flag¡±£º[¡°ÓÅ¿á¡±£¬¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±]}}£¬
-{¡°name¡±£º ¡°½â120¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡±https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±ÓÅ¿á¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°]}}£¬
-{¡±name¡°£º ¡±½â121¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://json.pangujiexi.com:12345/json.php?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±ÓÅ¿á¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°]}}£¬
-{¡±name¡°£º ¡±½â122¡°£¬¡±type¡°£º 1£¬¡±url¡°£º ¡±https://www.pangujiexi.com/pangu/?url=¡°}£¬
-{¡°name¡±£º ¡°½âÎö04¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°http://jf.tcspvip.com:246/home/api?type=ys&uid=65404&key=bjoprtvyABGIMPXZ27&url=¡±}£¬
-{¡°name¡±£º ¡°²¥·ÅÑ½¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jx.vk95.com/xx/?url=¡±}£¬
-{¡°name¡±£º ¡°¾çºÃ¿´¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://www.mtosz.com/m3u8.php?url=¡±}£¬
-{¡°name¡±£º ¡°Ïë¿´×ÊÔ´¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://lyw28.com/m3u8/?url=¡±}£¬
-{¡°name¡±£º¡°bilibili¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=¡±£¬¡°ext¡±£º{ ¡°flag¡±£º[¡°bilibili¡±]}}£¬
-{¡°name¡±£º¡°leduo¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°leduo¡±]}}£¬
-{¡°name¡±£º¡°duoduozy2¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://a.dxzj88.com/jxjx/dd.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°duoduozy¡±]}}£¬
-{¡°name¡±£º¡°renrenmi1¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://jx.blbo.cc:4433/?url=¡±}£¬
-{¡°name¡±£º¡°renrenmi2¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://a.dxzj88.com/jxrrm/jiami.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°rrm3u8¡±]}}£¬
-{¡°name¡±£º¡°renrenmi3¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°rrm3u8¡±]}}£¬
-{¡°name¡±£º¡°Pro2¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±£¬¡°rx¡±£¬¡°qiyi¡±£¬¡°°®ÆæÒÕ¡±£¬¡°qq¡±£¬¡°ÆæÒÕ¡±£¬¡°ËÑºü¡±£¬¡°ÀÖÊÓ¡±£¬¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±]}}£¬
-{¡°name¡±£º¡°2¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://jx.mczdyw.com/xg.php£¿url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±mgtv¡°£¬¡±Ã¢¹û¡°]}}£¬
-{¡±name¡°£º¡±3¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±qq¡°£¬¡±ÆæÒÕ¡°]}}£¬
-{¡±name¡°£º¡±4¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=¡°£¬¡±ext¡°£º{ ¡±flag¡°£º[¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±qq¡°£¬¡±ÆæÒÕ¡°]}}£¬
-{¡°name¡±£º¡°8¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://app.iminna.com/jx/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±£¬¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°ÆæÒÕ¡±£¬¡°°®ÆæÒÕ¡±£¬¡°qq¡±£¬¡°ÆæÒÕ¡±]}}£¬
-{¡°name¡±£º¡°³õĞÄÓ°ÊÓ1¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°http://jhpc.manduhu.com/j1217.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±]}}£¬
-{¡°name¡±£º¡°ì«·çÓ°Ôº2¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://vvip.funsline.cn/api/?key=3xWfEoDf4V9p9Y20CR&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ziqie¡±£¬¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°qiyi¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°mgtv¡±£¬¡±Ã¢¹û¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°]}}£¬
-{¡±name¡°£º¡±ÎÒ°®µçÓ°Íø¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://jhpc.manduhu.com/j1217.php?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±ÓÅ¿á¡°£¬¡±ÓÅ¿á¡°£¬¡±pptv¡°£¬¡±PPTV¡°]}}£¬
-{¡±name¡°£º¡±½­ºş½âÎö¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±http://103.40.240.46/jh/?url=¡°£¬¡±ext¡°£º{ ¡±flag¡°£º[¡±renrenmi¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±xigua¡°£¬¡±Î÷¹Ï¡°]}}£¬
-{¡°name¡±£º¡°ÍõÅÆ¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://za.kuanjv.com/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°ÆæÒÕ¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±£¬¡°ËÑºü¡±£¬¡°ËÑºü¡±£¬¡°ÀÖÊÓ¡±£¬¡°bilibili¡±£¬¡°ßÙÁ¨ßÙÁ¨¡±£¬¡°ßÙÁ¨¡±£¬¡°xigua¡±£¬¡°Î÷¹Ï¡±]}}£¬
-{¡°name¡±£º¡°ÎÒ°®µçÓ°Íø¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://jhpc.manduhu.com/j1217.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°ÆæÒÕ¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°ÓÅ¿á¡±£¬¡°mgtv¡±£¬¡°Ã¢¹û¡±£¬¡°ÀÖÊÓ¡±£¬¡°letv¡±£¬¡°PPTV¡±£¬¡°pptv¡±£¬¡°bilibili¡±£¬¡°ßÙÁ¨ßÙÁ¨¡±£¬¡°ßÙÁ¨¡±]}}£¬
-{¡°name¡±£º¡°»¶Óê¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°http://www.youhuifuligou.com/json/?id=7&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°ÆæÒÕ¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°ÀÖÊÓ¡±£¬¡°xigua¡±£¬¡°Î÷¹Ï¡±]}}£¬
-{¡°name¡±£º¡°hfyrw¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://json.hfyrw.com/mao.go?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±£¬¡°renrenmi¡±]}}£¬
-{¡°name¡±£º¡°aiaine02¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±£¬¡°renrenmi¡±£¬¡°xfyun¡±£¬¡°miaoparty¡±£¬¡±miaoparty2¡°£¬¡±miaoparty3¡°£¬¡±ÁúÌÚ¡°£¬¡±Ñ§ÈË¡°]}}£¬
-{¡±name¡°£º¡±ÎåÒ»½âÎö¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://json.5lp.net/json.php?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ltnb¡°£¬¡±renrenmi¡°£¬¡±rx¡°£¬¡±rongxing¡°]}}£¬
-{¡±name¡°£º¡±rongXingVR¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±renrenmi¡°£¬¡±rx¡°£¬¡±rongxing¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±bilibili¡°£¬¡±ßÙÁ¨ßÙÁ¨¡°£¬¡±ßÙÁ¨¡°]}}£¬
-{¡°name¡±£º¡°jx165¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://ltjx.kuaixiao.vip/home/api?type=ys&uid=506916&key=dlmpwBHIKLMPQRVW23&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±]}}£¬
-{¡°name¡±£º¡°J13¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://languangyingshiziyuan.1080zy.top/longtengzy.php/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±]}}£¬
-{¡°name¡±£º¡°xfyunÔÆ¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°xfyun¡±]}}£¬
-{¡°name¡±£º¡°Wuduzy¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://aa.xkys.tv/json.php?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°wuduzy¡±]}}£¬
-{¡°name¡±£º¡°LTRX¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°rx¡±]}}£¬
-{¡°name¡±£º¡°ß÷ÅÉ¶Ô×ÊÔ´3¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±£¬¡°renrenmi¡±]}}£¬
-{¡°name¡±£º¡°ß÷ÅÉ¶Ô×ÊÔ´2¡±£¬¡°type¡±£º1£¬¡°url¡±£º¡°https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°renrenmi¡±£¬¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°qiyi¡±£¬¡°°®ÆæÒÕ¡±£¬¡°ÆæÒÕ¡±£¬¡°ÓÅ¿á¡±£¬¡°ÓÅ¿á¡±£¬¡°°®ÆæÒÕ¡± mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±bilibili¡°£¬¡±ßÙÁ¨ßÙÁ¨¡°£¬¡±ßÙÁ¨¡°£¬¡±ËÑºü¡°]}}£¬
-{¡±name¡°£º¡±leduotv¡°£¬¡±type¡°£º1£¬¡±url¡°£º¡±https://api.leduotv.com/wp-api/getvodurl.php?vid=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±leduo¡°]}}£¬
-{¡±name¡°£º¡±OJBK¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://jmwl.qd234.cn/v/?v=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ltnb¡°£¬¡±renrenmi¡°£¬¡±rx¡°£¬¡±xfyun¡°£¬¡±muxm3u8¡°£¬¡±xigua¡°£¬¡±xueren¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±qiyi¡°£¬¡±°®ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±bilibili¡°£¬¡±ßÙÁ¨ßÙÁ¨¡°£¬¡±ßÙÁ¨¡°£¬¡±pptv¡°£¬¡±PPTV¡°£¬¡±ËÑºü¡°£¬¡±letv¡°]}}£¬
-{¡°name¡±£º¡°M117¡±£¬¡°type¡±£º0£¬¡°url¡±£º¡°http://1.117.152.239:39000/?url=¡±}£¬
-{¡°name¡±£º¡°zui¡±£¬¡°type¡±£º0£¬¡°url¡±£º¡°https://jx.zui.cm/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°ltnb¡±]}}£¬
-{¡°name¡±£º¡°xuerenweb¡±£¬¡°type¡±£º0£¬¡°url¡±£º¡°https://s.2tu.uk/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°xueren¡±]}}£¬
-{¡°name¡±£º¡°xuerenweb2¡±£¬¡°type¡±£º0£¬¡°url¡±£º¡°https://xrm3u8.qd234.cn/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°xueren¡±]}}£¬
-{¡°name¡±£º¡°ÃÀ¾ç³æ¡±£¬¡°type¡±£º0£¬¡°url¡±£º¡±https://jx.daiguaji.com/?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±×Ï½£¡°]}}£¬
-{¡±name¡°£º¡±miao¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://jx.58g8.com/1/?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±miaoparty¡°]}}£¬
-{¡±name¡°£º¡±web1¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://www.nxflv.com/?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ÓÅ¿á¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±qq¡°£¬¡±ÆæÒÕ¡°£¬¡±ËÑºü¡°£¬¡±ÀÖÊÓ¡°]}}£¬
-{¡±name¡°£º¡±ÍòÄÜ½âÎö¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://vip.legendwhb.cn/m3u8.php?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ltnb¡°£¬¡±renrenmi¡°£¬¡±qq¡±¡°£¬¡±ÌÚÑ¶¡°£¬¡±ÆæÒÕ¡°£¬¡±°®ÆæÒÕ¡°£¬¡±ÆæÒÕ¡°£¬¡±ÓÅ¿á¡°£¬¡±ÓÅ¿á¡°£¬¡±mgtv¡°£¬¡±Ã¢¹û¡°£¬¡±bilibili¡°£¬¡±ßÙÁ¨ßÙÁ¨¡°£¬¡±ßÙÁ¨¡°]}}£¬
-{¡±name¡°£º¡±ltnb04¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://vip.bljiex.com/?v=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ltnb¡°]}}£¬
-{¡±name¡°£º¡±ltnb02¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://jx.zui.cm/?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±ltnb¡°]}}£¬
-{¡±name¡°£º¡±CL4K01¡°£¬¡±type¡°£º0£¬¡±url¡°£º¡±https://ys.ling00.cn/CL4K/?url=¡°£¬¡±ext¡°£º{¡±flag¡°£º[¡±CL4K¡°£¬¡±qq¡°£¬¡±ÌÚÑ¶¡°]}}£¬
-{¡°name¡±£º¡°CL4K02¡±£¬¡°type¡±£º0£¬¡°url¡±£º¡°https://app.okmedcos.com/4k/?url=¡±£¬¡°ext¡±£º{¡°flag¡±£º[¡°CL4K¡±£¬¡°qq¡±£¬¡°ÌÚÑ¶¡±£¬¡°pptv¡±£¬¡°PPTV¡±]}}
-{¡°name¡±£º ¡°semao¡±£¬¡°type¡±£º 1£¬¡°url¡±£º ¡°https://jiexi.99mao.xyz/m3u8/?url=¡±}£¬
+{â€œnameâ€ï¼š â€œè§£84â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://svip.bljiex.cc/?v=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£85â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.1717yun.com/api/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£89â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.qianqi.net/vip/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£87â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.ikukk.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£88â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.playm3u8.cn/jiexi.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£89â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://vip.bljiex.com/?v=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£90â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.jiexi.la/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£91â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.m3u8.tv/jiexi/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£92â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://47.100.138.210:92/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£93â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://humaosp.com/json.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£94â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.iztyy.com/svip/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£95â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://660e.com/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£96â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.8090.la/8090/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£97â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€https://jx.daidaitv.top:43810/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£98â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£99â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£100â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://z1.m1907.cn/?jx=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£101â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://player.maqq.cn/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£102â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://jx.renrenmi.cc/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£103â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://fast.rongxingvr.cn:8866/api/?key=J4mUIu3DrRtIOojDox&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£104â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://fast.rongxingvr.cn:8866/api/?key=jtDZ22biNujOBLlgoe&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£105â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://fast.rongxingvr.cn:99/api/?key=M3tZzS2q0oGrQ7aWlr&url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£106â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://fast.rongxingvr.cn:8866/api/?key=rmxOw7BpINuGIyWQng&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£107â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://fast.rongxingvr.cn:8866/api/?key=nrR7koAyq9ajKId4nC&url è§£1=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£108â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZu&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£109â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€http://m2090.com/?url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£110â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url=â€œ}ï¼Œ
+{â€nameâ€œï¼š â€è§£111â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£112â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£113â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£114â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£115â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£116â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url è§£13=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£117â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£118â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£119â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=â€ï¼Œâ€œextâ€ï¼š{ â€œflagâ€ï¼š[â€œä¼˜é…·â€ï¼Œâ€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€]}}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£120â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œ]}}ï¼Œ
+{â€nameâ€œï¼š â€è§£121â€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://json.pangujiexi.com:12345/json.php?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œ]}}ï¼Œ
+{â€nameâ€œï¼š â€è§£122â€œï¼Œâ€typeâ€œï¼š 1ï¼Œâ€urlâ€œï¼š â€https://www.pangujiexi.com/pangu/?url=â€œ}ï¼Œ
+{â€œnameâ€ï¼š â€œè§£æ04â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttp://jf.tcspvip.com:246/home/api?type=ys&uid=65404&key=bjoprtvyABGIMPXZ27&url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæ’­æ”¾å‘€â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jx.vk95.com/xx/?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œå‰§å¥½çœ‹â€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://www.mtosz.com/m3u8.php?url=â€}ï¼Œ
+{â€œnameâ€ï¼š â€œæƒ³çœ‹èµ„æºâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://lyw28.com/m3u8/?url=â€}ï¼Œ
+{â€œnameâ€ï¼šâ€œbilibiliâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=â€ï¼Œâ€œextâ€ï¼š{ â€œflagâ€ï¼š[â€œbilibiliâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œleduoâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œleduoâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œduoduozy2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://a.dxzj88.com/jxjx/dd.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œduoduozyâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œrenrenmi1â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://jx.blbo.cc:4433/?url=â€}ï¼Œ
+{â€œnameâ€ï¼šâ€œrenrenmi2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://a.dxzj88.com/jxrrm/jiami.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œrrm3u8â€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œrenrenmi3â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://sz.dxzj88.com/jxrjrm/jiaomi.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œrrm3u8â€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œPro2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€ï¼Œâ€œrxâ€ï¼Œâ€œqiyiâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œqqâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œæœç‹â€ï¼Œâ€œä¹è§†â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œ2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://jx.mczdyw.com/xg.phpï¼Ÿurl=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€mgtvâ€œï¼Œâ€èŠ’æœâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€3â€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€qqâ€œï¼Œâ€å¥‡è‰ºâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€4â€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=â€œï¼Œâ€extâ€œï¼š{ â€flagâ€œï¼š[â€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€qqâ€œï¼Œâ€å¥‡è‰ºâ€œ]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œ8â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://app.iminna.com/jx/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€ï¼Œâ€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œqqâ€ï¼Œâ€œå¥‡è‰ºâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œåˆå¿ƒå½±è§†1â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttp://jhpc.manduhu.com/j1217.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œé£“é£å½±é™¢2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://vvip.funsline.cn/api/?key=3xWfEoDf4V9p9Y20CR&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œziqieâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œqiyiâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œmgtvâ€ï¼Œâ€èŠ’æœâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€æˆ‘çˆ±ç”µå½±ç½‘â€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://jhpc.manduhu.com/j1217.php?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€pptvâ€œï¼Œâ€PPTVâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€æ±Ÿæ¹–è§£æâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€http://103.40.240.46/jh/?url=â€œï¼Œâ€extâ€œï¼š{ â€flagâ€œï¼š[â€renrenmiâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€xiguaâ€œï¼Œâ€è¥¿ç“œâ€œ]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œç‹ç‰Œâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://za.kuanjv.com/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€ï¼Œâ€œæœç‹â€ï¼Œâ€œæœç‹â€ï¼Œâ€œä¹è§†â€ï¼Œâ€œbilibiliâ€ï¼Œâ€œå“”å“©å“”å“©â€ï¼Œâ€œå“”å“©â€ï¼Œâ€œxiguaâ€ï¼Œâ€œè¥¿ç“œâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œæˆ‘çˆ±ç”µå½±ç½‘â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://jhpc.manduhu.com/j1217.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œmgtvâ€ï¼Œâ€œèŠ’æœâ€ï¼Œâ€œä¹è§†â€ï¼Œâ€œletvâ€ï¼Œâ€œPPTVâ€ï¼Œâ€œpptvâ€ï¼Œâ€œbilibiliâ€ï¼Œâ€œå“”å“©å“”å“©â€ï¼Œâ€œå“”å“©â€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œæ¬¢é›¨â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttp://www.youhuifuligou.com/json/?id=7&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¹è§†â€ï¼Œâ€œxiguaâ€ï¼Œâ€œè¥¿ç“œâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œhfyrwâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://json.hfyrw.com/mao.go?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€ï¼Œâ€œrenrenmiâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œaiaine02â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€ï¼Œâ€œrenrenmiâ€ï¼Œâ€œxfyunâ€ï¼Œâ€œmiaopartyâ€ï¼Œâ€miaoparty2â€œï¼Œâ€miaoparty3â€œï¼Œâ€é¾™è…¾â€œï¼Œâ€å­¦äººâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€äº”ä¸€è§£æâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://json.5lp.net/json.php?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ltnbâ€œï¼Œâ€renrenmiâ€œï¼Œâ€rxâ€œï¼Œâ€rongxingâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€rongXingVRâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€renrenmiâ€œï¼Œâ€rxâ€œï¼Œâ€rongxingâ€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€bilibiliâ€œï¼Œâ€å“”å“©å“”å“©â€œï¼Œâ€å“”å“©â€œ]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œjx165â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://ltjx.kuaixiao.vip/home/api?type=ys&uid=506916&key=dlmpwBHIKLMPQRVW23&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œJ13â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://languangyingshiziyuan.1080zy.top/longtengzy.php/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œxfyunäº‘â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œxfyunâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œWuduzyâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://aa.xkys.tv/json.php?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œwuduzyâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œLTRXâ€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œrxâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œå–µæ´¾å¯¹èµ„æº3â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€ï¼Œâ€œrenrenmiâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œå–µæ´¾å¯¹èµ„æº2â€ï¼Œâ€œtypeâ€ï¼š1ï¼Œâ€œurlâ€ï¼šâ€œhttps://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œrenrenmiâ€ï¼Œâ€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œqiyiâ€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ï¼Œâ€œå¥‡è‰ºâ€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œä¼˜é…·â€ï¼Œâ€œçˆ±å¥‡è‰ºâ€ mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€bilibiliâ€œï¼Œâ€å“”å“©å“”å“©â€œï¼Œâ€å“”å“©â€œï¼Œâ€æœç‹â€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€leduotvâ€œï¼Œâ€typeâ€œï¼š1ï¼Œâ€urlâ€œï¼šâ€https://api.leduotv.com/wp-api/getvodurl.php?vid=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€leduoâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€OJBKâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://jmwl.qd234.cn/v/?v=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ltnbâ€œï¼Œâ€renrenmiâ€œï¼Œâ€rxâ€œï¼Œâ€xfyunâ€œï¼Œâ€muxm3u8â€œï¼Œâ€xiguaâ€œï¼Œâ€xuerenâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€qiyiâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€bilibiliâ€œï¼Œâ€å“”å“©å“”å“©â€œï¼Œâ€å“”å“©â€œï¼Œâ€pptvâ€œï¼Œâ€PPTVâ€œï¼Œâ€æœç‹â€œï¼Œâ€letvâ€œ]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œM117â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œurlâ€ï¼šâ€œhttp://1.117.152.239:39000/?url=â€}ï¼Œ
+{â€œnameâ€ï¼šâ€œzuiâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œurlâ€ï¼šâ€œhttps://jx.zui.cm/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œltnbâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œxuerenwebâ€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œurlâ€ï¼šâ€œhttps://s.2tu.uk/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œxuerenâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œxuerenweb2â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œurlâ€ï¼šâ€œhttps://xrm3u8.qd234.cn/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œxuerenâ€]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œç¾å‰§è™«â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œurlâ€ï¼šâ€https://jx.daiguaji.com/?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ç´«å‰‘â€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€miaoâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://jx.58g8.com/1/?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€miaopartyâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€web1â€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://www.nxflv.com/?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ä¼˜é…·â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€qqâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€æœç‹â€œï¼Œâ€ä¹è§†â€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€ä¸‡èƒ½è§£æâ€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://vip.legendwhb.cn/m3u8.php?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ltnbâ€œï¼Œâ€renrenmiâ€œï¼Œâ€qqâ€â€œï¼Œâ€è…¾è®¯â€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€çˆ±å¥‡è‰ºâ€œï¼Œâ€å¥‡è‰ºâ€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€ä¼˜é…·â€œï¼Œâ€mgtvâ€œï¼Œâ€èŠ’æœâ€œï¼Œâ€bilibiliâ€œï¼Œâ€å“”å“©å“”å“©â€œï¼Œâ€å“”å“©â€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€ltnb04â€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://vip.bljiex.com/?v=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ltnbâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€ltnb02â€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://jx.zui.cm/?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€ltnbâ€œ]}}ï¼Œ
+{â€nameâ€œï¼šâ€CL4K01â€œï¼Œâ€typeâ€œï¼š0ï¼Œâ€urlâ€œï¼šâ€https://ys.ling00.cn/CL4K/?url=â€œï¼Œâ€extâ€œï¼š{â€flagâ€œï¼š[â€CL4Kâ€œï¼Œâ€qqâ€œï¼Œâ€è…¾è®¯â€œ]}}ï¼Œ
+{â€œnameâ€ï¼šâ€œCL4K02â€ï¼Œâ€œtypeâ€ï¼š0ï¼Œâ€œurlâ€ï¼šâ€œhttps://app.okmedcos.com/4k/?url=â€ï¼Œâ€œextâ€ï¼š{â€œflagâ€ï¼š[â€œCL4Kâ€ï¼Œâ€œqqâ€ï¼Œâ€œè…¾è®¯â€ï¼Œâ€œpptvâ€ï¼Œâ€œPPTVâ€]}}
+{â€œnameâ€ï¼š â€œsemaoâ€ï¼Œâ€œtypeâ€ï¼š 1ï¼Œâ€œurlâ€ï¼š â€œhttps://jiexi.99mao.xyz/m3u8/?url=â€}ï¼Œ
 
-]£¬
-¡°ijk¡±£º [
+]ï¼Œ
+â€œijkâ€ï¼š [
 {
-¡°group¡±£º ¡°Èí½âÂë¡±£¬
-¡°options¡±£º [
+â€œgroupâ€ï¼š â€œè½¯è§£ç â€ï¼Œ
+â€œoptionsâ€ï¼š [
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°opensles¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œopenslesâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°overlay-format¡±£¬
-¡°value¡±£º ¡°842225234¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œoverlay-formatâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ842225234â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°framedrop¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œframedropâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º4£¬
-¡°name¡±£º ¡°soundtouch¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š4ï¼Œ
+â€œnameâ€ï¼š â€œsoundtouchâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°start-on-prepared¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œstart-on-preparedâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 1£¬
-¡°name¡±£º ¡°http-detect-range-support¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 1ï¼Œ
+â€œnameâ€ï¼š â€œhttp-detect-range-supportâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 1£¬
-¡°name¡±£º ¡°fflags¡±£¬
-¡°value¡±£º ¡°fastseek¡±
-}£¬
+â€œcategoryâ€ï¼š 1ï¼Œ
+â€œnameâ€ï¼š â€œfflagsâ€ï¼Œ
+â€œvalueâ€ï¼š â€œfastseekâ€
+}ï¼Œ
 {
-¡°category¡±£º 2£¬
-¡°name¡±£º ¡°skip_loop_filter¡±£¬
-¡°value¡±£º ¡°48¡±
-}£¬
+â€œcategoryâ€ï¼š 2ï¼Œ
+â€œnameâ€ï¼š â€œskip_loop_filterâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ48â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°reconnect¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œreconnectâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°max-buffer-size¡±£¬
-¡°value¡±£º ¡°5242880¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmax-buffer-sizeâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ5242880â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°enable-accurate-seek¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œenable-accurate-seekâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodecâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec-auto-rotate¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodec-auto-rotateâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec-handle-resolution-change¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodec-handle-resolution-changeâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡±mediacodec-hevc¡°£¬
-¡±value¡°£º ¡±0¡°
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€mediacodec-hevcâ€œï¼Œ
+â€valueâ€œï¼š â€0â€œ
+}ï¼Œ
 {
-¡±category¡°£º 1£¬
-¡±name¡°£º ¡±dns_cache_timeout¡°£¬
-¡±value¡°£º ¡±600000000¡°
+â€categoryâ€œï¼š 1ï¼Œ
+â€nameâ€œï¼š â€dns_cache_timeoutâ€œï¼Œ
+â€valueâ€œï¼š â€600000000â€œ
 }
 ]
-}£¬
+}ï¼Œ
 {
-¡±group¡°£º ¡±Ó²½âÂë¡°£¬
-¡±options¡°£º [
+â€groupâ€œï¼š â€ç¡¬è§£ç â€œï¼Œ
+â€optionsâ€œï¼š [
 {
-¡±category¡°£º 4£¬
-¡±name¡°£º ¡±opensles¡°£¬
-¡±value¡°£º ¡±0¡°
-}£¬
+â€categoryâ€œï¼š 4ï¼Œ
+â€nameâ€œï¼š â€openslesâ€œï¼Œ
+â€valueâ€œï¼š â€0â€œ
+}ï¼Œ
 {
-¡±category¡°£º 4£¬
-¡±name¡°£º ¡±overlay-format¡°£¬
-¡±value¡°£º ¡±842225234¡°
-}£¬
+â€categoryâ€œï¼š 4ï¼Œ
+â€nameâ€œï¼š â€overlay-formatâ€œï¼Œ
+â€valueâ€œï¼š â€842225234â€œ
+}ï¼Œ
 {
-¡±category¡°£º 4£¬
-¡±name¡°£º ¡±framedrop¡°£¬
-¡±value¡°£º ¡±1¡°
-}£¬
+â€categoryâ€œï¼š 4ï¼Œ
+â€nameâ€œï¼š â€framedropâ€œï¼Œ
+â€valueâ€œï¼š â€1â€œ
+}ï¼Œ
 {
-¡±category¡°£º 4£¬
-¡±name¡°£º ¡±soundtouch¡°£¬
-¡±value¡°£º ¡±1¡°
-}£¬
+â€categoryâ€œï¼š 4ï¼Œ
+â€nameâ€œï¼š â€soundtouchâ€œï¼Œ
+â€valueâ€œï¼š â€1â€œ
+}ï¼Œ
 {
-¡±category¡°£º 4£¬
-¡±name¡°£º ¡±start-on-prepared¡°£¬
-¡±value¡°£º ¡±1¡°
-}£¬
+â€categoryâ€œï¼š 4ï¼Œ
+â€nameâ€œï¼š â€start-on-preparedâ€œï¼Œ
+â€valueâ€œï¼š â€1â€œ
+}ï¼Œ
 {
-¡°category¡±£º 1£¬
-¡°name¡±£º ¡°http-detect-range-support¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 1ï¼Œ
+â€œnameâ€ï¼š â€œhttp-detect-range-supportâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 1£¬
-¡°name¡±£º ¡°fflags¡±£¬
-¡°value¡±£º ¡°fastseek¡±
-}£¬
+â€œcategoryâ€ï¼š 1ï¼Œ
+â€œnameâ€ï¼š â€œfflagsâ€ï¼Œ
+â€œvalueâ€ï¼š â€œfastseekâ€
+}ï¼Œ
 {
-¡°category¡±£º 2£¬
-¡°name¡±£º ¡°skip_loop_filter¡±£¬
-¡°value¡±£º ¡°48¡±
-}£¬
+â€œcategoryâ€ï¼š 2ï¼Œ
+â€œnameâ€ï¼š â€œskip_loop_filterâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ48â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡±reconnect¡°£¬
-¡±value¡°£º ¡±1¡°
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€reconnectâ€œï¼Œ
+â€valueâ€œï¼š â€1â€œ
+}ï¼Œ
 {
-¡±category¡°£º 4£¬
-¡±name¡°£º ¡±max-buffer-size¡°£¬
-¡°value¡±£º ¡°5242880¡±
-}£¬
+â€categoryâ€œï¼š 4ï¼Œ
+â€nameâ€œï¼š â€max-buffer-sizeâ€œï¼Œ
+â€œvalueâ€ï¼š â€œ5242880â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°enable-accurate-seek¡±£¬
-¡°value¡±£º ¡°0¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œenable-accurate-seekâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ0â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodecâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec-auto-rotate¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodec-auto-rotateâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec-handle-resolution-change¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodec-handle-resolution-changeâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 4£¬
-¡°name¡±£º ¡°mediacodec-hevc¡±£¬
-¡°value¡±£º ¡°1¡±
-}£¬
+â€œcategoryâ€ï¼š 4ï¼Œ
+â€œnameâ€ï¼š â€œmediacodec-hevcâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ1â€
+}ï¼Œ
 {
-¡°category¡±£º 1£¬
-¡°name¡±£º ¡°dns_cache_timeout¡±£¬
-¡°value¡±£º ¡°600000000¡±
+â€œcategoryâ€ï¼š 1ï¼Œ
+â€œnameâ€ï¼š â€œdns_cache_timeoutâ€ï¼Œ
+â€œvalueâ€ï¼š â€œ600000000â€
 }
 ]
 }
-]£¬
-¡°ads¡±£º [
-¡°mimg.0c1q0l.cn¡±£¬
-¡°www.googletagmanager.com¡±£¬
-¡°www.google-analytics.com¡±£¬
-¡°mc.usihnbcq.cn¡±£¬
-¡°mg.g1mm3d.cn¡±£¬
-¡°mscs.svaeuzh.cn¡±£¬
-¡°cnzz.hhttm.top¡±£¬
-¡°tp.vinuxhome.com¡±£¬
-¡°cnzz.mmstat.com¡±£¬
-¡°www.baihuillq.com¡±£¬
-¡°s23.cnzz.com¡±£¬
-¡°z3.cnzz.com¡±£¬
-¡°c.cnzz.com¡±£¬
-¡°stj.v1vo.top¡±¡¢¡°
-z12.cnzz.com¡±¡¢¡°
-img.mosflower.cn¡±¡¢¡°
-tips.gamevvip.com¡±¡¢¡°
-ehwe.yhdtns.com¡±¡¢¡°
-xdn.cqqc3.com¡±¡¢¡°
-www.jixunkyy.cn¡±¡¢¡°
-sp.chemacid.cn¡±¡¢¡°
-hm.baidu.com¡±¡¢¡°
-s9.cnzz.com¡±¡¢¡°
-z6.cnzz.com¡±¡¢¡°
-um.cavuc.com¡±¡¢¡°
-mav.mavuz.com¡±¡¢¡°
-wofwk.aoidf3.com¡±¡¢
-¡°z5.cnzz.com¡±¡¢¡°
-xc.hubeijieshikj.cn¡±¡¢¡°
-tj.tianwenhu.com¡±¡¢¡°
-xg.gars57.cn¡±¡¢¡°
-k.jinxiuzhilv.com¡±¡¢¡°
-cdn.bootcss.com¡±¡¢¡°
-ppl.xunzhuo123.com¡±¡¢¡°
-xomk.jiangjunmh.top¡±¡¢¡°
-img.xunzhuo123.com¡±¡¢¡°
-z1.cnzz.com¡±¡¢¡°
-v1.cnzz.com¡±¡¢¡°
-s13.cnzz.com¡±¡¢¡°
-xg.huataisangao.cn¡±¡¢¡±
-z7.cnzz.com¡°¡¢¡±
-xg.huataisangao.cn¡°¡¢¡±
-z2.cnzz.com¡°¡¢¡±
-s96.cnzz.com¡°¡¢¡±
-q11.cnzz.com¡°¡¢¡±
-thy.dacedsfa.cn¡°¡¢¡±
-xg.whsbpw.cn¡°¡¢¡±
-s19.cnzz.com¡°¡¢¡±
-z8.cnzz.com¡°¡¢¡±
-s4.cnzz.com¡°¡¢¡±
-f5w.as12df.top¡°¡¢¡±
-ae01.alicdn.com¡°¡¢¡±
-videocloud.cn-hangzhou.log.aliyuncs.com¡°¡¢¡±
-www.92424.cn¡°¡¢
-¡°k.wudejia.com¡±£¬
-¡°vivovip.mmszxc.top¡±£¬
-¡°qiu.xixiqiu.com¡±£¬
-¡°cdnjs.hnfenxun.com¡±£¬
-¡°cms.qdwght.com¡±
+]ï¼Œ
+â€œadsâ€ï¼š [
+â€œmimg.0c1q0l.cnâ€ï¼Œ
+â€œwww.googletagmanager.comâ€ï¼Œ
+â€œwww.google-analytics.comâ€ï¼Œ
+â€œmc.usihnbcq.cnâ€ï¼Œ
+â€œmg.g1mm3d.cnâ€ï¼Œ
+â€œmscs.svaeuzh.cnâ€ï¼Œ
+â€œcnzz.hhttm.topâ€ï¼Œ
+â€œtp.vinuxhome.comâ€ï¼Œ
+â€œcnzz.mmstat.comâ€ï¼Œ
+â€œwww.baihuillq.comâ€ï¼Œ
+â€œs23.cnzz.comâ€ï¼Œ
+â€œz3.cnzz.comâ€ï¼Œ
+â€œc.cnzz.comâ€ï¼Œ
+â€œstj.v1vo.topâ€ã€â€œ
+z12.cnzz.comâ€ã€â€œ
+img.mosflower.cnâ€ã€â€œ
+tips.gamevvip.comâ€ã€â€œ
+ehwe.yhdtns.comâ€ã€â€œ
+xdn.cqqc3.comâ€ã€â€œ
+www.jixunkyy.cnâ€ã€â€œ
+sp.chemacid.cnâ€ã€â€œ
+hm.baidu.comâ€ã€â€œ
+s9.cnzz.comâ€ã€â€œ
+z6.cnzz.comâ€ã€â€œ
+um.cavuc.comâ€ã€â€œ
+mav.mavuz.comâ€ã€â€œ
+wofwk.aoidf3.comâ€ã€
+â€œz5.cnzz.comâ€ã€â€œ
+xc.hubeijieshikj.cnâ€ã€â€œ
+tj.tianwenhu.comâ€ã€â€œ
+xg.gars57.cnâ€ã€â€œ
+k.jinxiuzhilv.comâ€ã€â€œ
+cdn.bootcss.comâ€ã€â€œ
+ppl.xunzhuo123.comâ€ã€â€œ
+xomk.jiangjunmh.topâ€ã€â€œ
+img.xunzhuo123.comâ€ã€â€œ
+z1.cnzz.comâ€ã€â€œ
+v1.cnzz.comâ€ã€â€œ
+s13.cnzz.comâ€ã€â€œ
+xg.huataisangao.cnâ€ã€â€
+z7.cnzz.comâ€œã€â€
+xg.huataisangao.cnâ€œã€â€
+z2.cnzz.comâ€œã€â€
+s96.cnzz.comâ€œã€â€
+q11.cnzz.comâ€œã€â€
+thy.dacedsfa.cnâ€œã€â€
+xg.whsbpw.cnâ€œã€â€
+s19.cnzz.comâ€œã€â€
+z8.cnzz.comâ€œã€â€
+s4.cnzz.comâ€œã€â€
+f5w.as12df.topâ€œã€â€
+ae01.alicdn.comâ€œã€â€
+videocloud.cn-hangzhou.log.aliyuncs.comâ€œã€â€
+www.92424.cnâ€œã€
+â€œk.wudejia.comâ€ï¼Œ
+â€œvivovip.mmszxc.topâ€ï¼Œ
+â€œqiu.xixiqiu.comâ€ï¼Œ
+â€œcdnjs.hnfenxun.comâ€ï¼Œ
+â€œcms.qdwght.comâ€
 ]
 }
